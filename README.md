@@ -40,13 +40,13 @@ It uses API integration to provide accurate and fast translations.
 ## 📸 Screenshots
 
 ### 🏠 Home Screen5
-<img src="assets/screenshots/home.jpeg" width="220"/>
+<img src="assets/screenshots/home.jpeg" height="600", width="300"/>
 
 ### 🔄 Translation Screen
-<img src="assets/screenshots/language_translation.jpeg" width="220"/>
+<img src="assets/screenshots/language_translation.jpeg" height="600" ,width="300"/>
 
 ### 🌐 Language Selection
-<img src="assets/screenshots/language_selection.jpeg" width="220"/>
+<img src="assets/screenshots/language_selection.jpeg" height="600", width="300"/>
 
 ---
 
