@@ -43,10 +43,10 @@ It uses API integration to provide accurate and fast translations.
 ![Home](assets/screenshots/home.jpeg)
 
 ### 🔄 Translation Screen
-![Translate](assets/screenshots/translate.jpeg)
+![Translate](assets/screenshots/language_translation.jpeg)
 
 ### 🌐 Language Selection
-![Languages](assets/screenshots/language.jpeg)
+![Languages](assets/screenshots/language_selection.jpeg)
 
 ---
 
