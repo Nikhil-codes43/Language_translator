@@ -43,9 +43,9 @@ It uses API integration to provide accurate and fast translations.
 <h3 align="center">📱 App Screenshots</h3>
 
 <p align="center">
-  <img src="assets/screenshots/home.png" height="600" width="300"/>
-  <img src="assets/screenshots/language_selection.jpeg.png" height="600" width="220"/>
-  <img src="assets/screenshots/language_translation.jpeg.png" height="600" width="220"/>
+  <img src="assets/screenshots/home.jpeg" height="600" width="300"/>
+  <img src="assets/screenshots/language_selection.jpeg" height="600" width="220"/>
+  <img src="assets/screenshots/language_translation.jpeg" height="600" width="220"/>
 </p>
 
 ---
